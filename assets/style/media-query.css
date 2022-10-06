@@ -31,10 +31,6 @@
     div#form p {
         margin-block: 10px;
     }
-
-    div.campo {
-        margin-block: 5px;
-    }
 }
 
 /* Telas grandes */
@@ -67,10 +63,6 @@
     div#form p {
         font-size: 1.2em;
         margin-block: 20px;
-    }
-
-    div.campo {
-        margin-block: 5px;
     }
 
 }

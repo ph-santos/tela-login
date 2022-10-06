@@ -58,7 +58,7 @@ form div.campo {
     background-color: #5f2c82;
     border-radius: 8px;
     border: 2px solid #5f2c82;
-    margin-block: 5px;
+    margin: 5px 0;
 }
 
 div.campo label {
