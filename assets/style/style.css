@@ -48,3 +48,12 @@ section div#image {
 section div#form {
     padding: 10px;
 }
+
+div#form h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#form p {
+    font-size: 0.8em;
+}
