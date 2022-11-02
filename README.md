@@ -16,9 +16,9 @@ Esse projeto consiste em uma tela de login responsiva.
 ## Layout web
 ![Web 1](https://github.com/ph-santos/tela-login/blob/main/assets/images/telas-grandes.png)
 
+# Tecnologias utilizadas
 ## Front end
-- HTML / CSS / 
-
+- HTML / CSS / JS / TypeScript
 
 # Autor
 
