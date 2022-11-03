@@ -18,7 +18,7 @@ Esse projeto consiste em uma tela de login responsiva.
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS 
 
 # Autor
 
